@@ -16,13 +16,13 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. Where are the old left-handed people?
-2. Rates of left-handedness over time
-3. Applying Bayes' rule
-4. When do people normally die?
-5. The overall probability of left-handedness
-6. Putting it all together: dying while left-handed (i)
-7. Putting it all together: dying while left-handed (ii)
-8. Plotting the distributions of conditional probabilities
-9. Moment of truth: age of left and right-handers at death
-10. Final comments
+1. **Where are the old left-handed people?:**
+2. **Rates of left-handedness over time:**
+3. **Applying Bayes' rule:**
+4. **When do people normally die?:**
+5. **The overall probability of left-handedness:**
+6. **Putting it all together: dying while left-handed (i):**
+7. **Putting it all together: dying while left-handed (ii):**
+8. **Plotting the distributions of conditional probabilities:**
+9. **Moment of truth: age of left and right-handers at death:**
+10. **Final comments:**

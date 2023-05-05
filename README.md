@@ -17,7 +17,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
 1. **Where are the old left-handed people?:** Load the handedness data from the National Geographic survey and create a scatter plot.
-2. **Rates of left-handedness over time:**
+2. **Rates of left-handedness over time:** Add two new columns, one for birth year and one for mean left-handedness, then plot the mean as a function of birth year.
 3. **Applying Bayes' rule:**
 4. **When do people normally die?:**
 5. **The overall probability of left-handedness:**

@@ -18,7 +18,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 ## Contents
 1. **Where are the old left-handed people?:** Load the handedness data from the National Geographic survey and create a scatter plot.
 2. **Rates of left-handedness over time:** Add two new columns, one for birth year and one for mean left-handedness, then plot the mean as a function of birth year.
-3. **Applying Bayes' rule:**
+3. **Applying Bayes' rule:** Create a function that will return P(LH | A) for particular ages of death in a given study year.
 4. **When do people normally die?:**
 5. **The overall probability of left-handedness:**
 6. **Putting it all together: dying while left-handed (i):**

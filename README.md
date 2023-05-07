@@ -21,7 +21,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 3. **Applying Bayes' rule:** Create a function that will return P(LH | A) for particular ages of death in a given study year.
 4. **When do people normally die?:** Load death distribution data for the United States and plot it.
 5. **The overall probability of left-handedness:** Create a function called P_lh() which calculates the overall probability of left-handedness in the population for a given study year.
-6. **Putting it all together: dying while left-handed (i):**
+6. **Putting it all together: dying while left-handed (i):** Write a function to calculate P_A_given_lh().
 7. **Putting it all together: dying while left-handed (ii):**
 8. **Plotting the distributions of conditional probabilities:**
 9. **Moment of truth: age of left and right-handers at death:**
